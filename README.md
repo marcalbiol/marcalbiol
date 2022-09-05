@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Marc Albiol Molina
 - 👀 I’m interested in programming and games
-- 🌱 I’m currently learning Java, JS, PHP, HTML, CSS... and more
   ---WORKING ON IT---
 
 
