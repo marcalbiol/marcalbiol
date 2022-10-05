@@ -31,9 +31,7 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td>
 
 </td></tr></table>  
 
